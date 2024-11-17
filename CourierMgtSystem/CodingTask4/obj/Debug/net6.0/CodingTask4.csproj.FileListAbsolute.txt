@@ -1,0 +1,15 @@
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\bin\Debug\net6.0\CodingTask4.exe
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\bin\Debug\net6.0\CodingTask4.deps.json
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\bin\Debug\net6.0\CodingTask4.runtimeconfig.json
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\bin\Debug\net6.0\CodingTask4.dll
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\bin\Debug\net6.0\CodingTask4.pdb
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\obj\Debug\net6.0\CodingTask4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\obj\Debug\net6.0\CodingTask4.AssemblyInfoInputs.cache
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\obj\Debug\net6.0\CodingTask4.AssemblyInfo.cs
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\obj\Debug\net6.0\CodingTask4.csproj.CoreCompileInputs.cache
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\obj\Debug\net6.0\CodingTask4.sourcelink.json
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\obj\Debug\net6.0\CodingTask4.dll
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\obj\Debug\net6.0\refint\CodingTask4.dll
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\obj\Debug\net6.0\CodingTask4.pdb
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\obj\Debug\net6.0\CodingTask4.genruntimeconfig.cache
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CodingTask4\obj\Debug\net6.0\ref\CodingTask4.dll

@@ -1,0 +1,15 @@
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\obj\Debug\net6.0\CMS-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\obj\Debug\net6.0\CMS-app.AssemblyInfoInputs.cache
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\obj\Debug\net6.0\CMS-app.AssemblyInfo.cs
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\obj\Debug\net6.0\CMS-app.csproj.CoreCompileInputs.cache
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\obj\Debug\net6.0\CMS-app.sourcelink.json
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\bin\Debug\net6.0\CMS-app.exe
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\bin\Debug\net6.0\CMS-app.deps.json
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\bin\Debug\net6.0\CMS-app.runtimeconfig.json
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\bin\Debug\net6.0\CMS-app.dll
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\bin\Debug\net6.0\CMS-app.pdb
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\obj\Debug\net6.0\CMS-app.dll
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\obj\Debug\net6.0\refint\CMS-app.dll
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\obj\Debug\net6.0\CMS-app.pdb
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\obj\Debug\net6.0\CMS-app.genruntimeconfig.cache
+D:\Hexaware\Segue\2. Assignment\CourierMgtSystem\CMS-app\obj\Debug\net6.0\ref\CMS-app.dll
