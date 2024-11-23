@@ -438,3 +438,12 @@ SELECT * FROM Locations;
 SELECT * FROM Users;
 
 
+--------------------------
+
+ALTER TABLE Couriers
+ADD CONSTRAINT Check_Status
+CHECK (Status IN ('Yet to Transit', 'In Transit', 'Delivered'));
+
+ALTER TABLE Couriers
+ADD CONSTRAINT Def_Status
+DEFAULT 'Yet to transit' FOR Status;

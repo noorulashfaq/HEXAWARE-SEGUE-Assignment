@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CMS-app",
+    "\\CMS-app\\Service",
+    "\\CMS-app\\Utility"
   ],
-  "SelectedNode": "\\CourierMgtSystem.sln",
+  "SelectedNode": "\\CMS-app\\Repository",
   "PreviewInSolutionExplorer": false
 }
